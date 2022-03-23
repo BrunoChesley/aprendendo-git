@@ -1,0 +1,9 @@
+O Git é uma sistema de desenvolvimento de software.
+ele tem uma grande flexibilidade no fluxo de trabalho e atualmente é o sistema mais usado no mundo.
+git config. ... (configurações)
+git init. ...(criar projeto)
+git clone. ... (copiar)
+git clean. ... (limpar)
+git add ... (adicionar ao repositorio)
+git status ... (verificar alteração)
+git tag ... (cliar informações)
